@@ -29,7 +29,7 @@ document.getElementById('hom').addEventListener('click', function() {
         Email.send({
             Host : "smtp.elasticemail.com",
             Username : "sandithkariyawasam2001@gmail.com",
-            Password : "F4559B51E9BC8AAC857C005AEFB6355815D7",
+            Password : ".......................",
             To : 'sandithkariyawasam2001@gmail.com',
             From : "sandithkariyawasam2001@gmail.com",
             Subject : subject.value,
